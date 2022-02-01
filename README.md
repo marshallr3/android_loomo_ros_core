@@ -3,7 +3,7 @@
 
 This is early research code (Android app) that enables Loomo-to-Ubuntu PC connection through USB, with message passing in ROS.
 
-If you want to use the Android code as is, you might be able to just `abd install android_loomo_ros-release.apk` after downloading an apk file [here](https://www.dropbox.com/s/wm86eata78v7h9p/android_loomo_ros-release.apk?dl=0). I am curious if this works for anyone, so please let me know if you get a chance to try. You could then skip down to the "After Installing Android App onto Loomo" part of this readme.
+If you want to use the Android code as is, you might be able to just `adb install android_loomo_ros-release.apk` after downloading an apk file [here](https://www.dropbox.com/s/wm86eata78v7h9p/android_loomo_ros-release.apk?dl=0). I am curious if this works for anyone, so please let me know if you get a chance to try. You could then skip down to the "After Installing Android App onto Loomo" part of this readme.
 
 ### Starting from scratch ###
 
